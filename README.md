@@ -27,3 +27,8 @@ This is a project for learning HTML. I am currently following the odin project f
 - Git (especially writing good commits)
 
 I feel confident, that my HTML skills suffice, to move on to CSS and other aspects of web development
+
+## Hosting
+
+This site has been deployed at [nthedev-odin-recipes.vercel.app
+](https://nthedev-odin-recipes.vercel.app/)
